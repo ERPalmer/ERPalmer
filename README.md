@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ERPalmer.
 - 👀 I’m interested in: Web Development, Desing, UI/UX.
-- 🌱 I’m currently a Web3 enthusiast learning: Python, RUST, NFT, and Blockchain information.
+- 🌱 I’m currently a Web3 enthusiast learning about: Python, RUST, NFT, and Blockchain information.
 - 💞️ I’m looking to collaborate on some projects that inspire me to increase my acknowledgments.
 - 📫 How to reach me? ERodriguez.Palmer@gmail.com.
 
